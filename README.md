@@ -74,6 +74,37 @@ Neste módulo inicial, introduz conceitos básicos sobre Cloud (nuvem), tais com
   - Teste
   - Produção
 
+  [ Computação e Rede na Azure ]
+
+* Tipos de Computação
+  - Azure como máquinas virtuais (VMs) sendo emulações de software de computadores físicos
+  - Inclui processador virutal, memória, armazenamento e rede
+  - Oferta de IaaS que oferece personalização e controle total
+
+* Redes Virtuais
+  - Área de trabalho virtual
+  - Reduz risco de que o recurso seja deixado para trás
+  - Implatanções reais de várias sessões
+ 
+* Serviços de Contêineres do Azure
+  - Ambiente leve e virutalizado
+  - Não exige gerenciamento do sistema operacional
+  - Pode responder a alterações sob demanda
+
+* Contêineres
+  - Ambiente leve e em miniatura adequado para execução de microsserviços
+  - Projetado para escalabilidade e resiliência por meio da orquestração
+  - Aplicativos e serviços são empacatados em um contêiner que fica na parte superior do SO do host
+
+* Azure Functions
+  - PaaS que dá suporte a operçaões de computação sem servidor 
+  - Código baseado em eventos é executado quando chamado, sem exigir uma infraestrutura de servidor durante períodos inativos (REST)
+
+* Máquinas Virtuais (VM)
+  - Suporte a ambientes Windows ou Linux
+  - Útil para migrações de lift-and-shift para nuvem
+
+
 ### Social Media
 * Instagram: https://www.instagram.com/argeu.souza
 * My GitHub: https://www.github.com/argeulimbo
