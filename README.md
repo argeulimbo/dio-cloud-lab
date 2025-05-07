@@ -104,6 +104,35 @@ Neste módulo inicial, introduz conceitos básicos sobre Cloud (nuvem), tais com
   - Suporte a ambientes Windows ou Linux
   - Útil para migrações de lift-and-shift para nuvem
 
+[ Identidade, Acesso e Segurança ]
+* Microsoft Entra ID - serviço de gerenciamento de identidades e acesso baseado em nuvem do Microsoft Azure
+  - Autenticação
+  - Logon único (SSO)
+  - Gerenciamento de aplicativos
+  - Negócios para Negócios (B2B)
+  - Gerenciamento de dispositivos
+    
+* Autenticação
+  - Identifica pessoa ou serviço buscando acesso a um recurso
+  - Solicita credenciais de acesso legítimo
+    
+* Autorização
+  - Determina nível de acesso da pessoa ou serviço
+  - Define quais dados pode acessar e o que pode fazer com eles
+    
+* Autenticação Multifator (MFA)
+  - Segurança adicional
+  - Autenticação em 2 fatores ou mais
+  - Relacionamento -> Algo que você sabe <> algo que você possui <> Algo que você é
+    
+* Acesso Condicional
+  - Associação de usuário ou grupo
+  - Local do IP
+  - Dispositivo
+  - Aplicativo
+  - Detecção de risco
+
+
 
 ### Social Media
 * Instagram: https://www.instagram.com/argeu.souza
