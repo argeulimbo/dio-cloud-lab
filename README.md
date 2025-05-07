@@ -39,6 +39,41 @@ Neste módulo inicial, introduz conceitos básicos sobre Cloud (nuvem), tais com
   - Modelo de preço de pagamento conforme o uso - licença de uso
   - Usuários pagam pelo software que utilizam em um modelo de assinatura
 
+[ Componentes de Arquitetura do Azure ]
+* Regiões 
+  - São compostas de um ou mais datacenters muito próximos
+  - Fornecem flexibilidade e escala para reduzir a latência do cliente
+  - Preservam a residência dos dados com uma oferta abrangente de conformidade
+
+* Zonas de disponibilidade
+  - Fornece proteção contra tempo de inatividade devido falha do datacenter
+  - Separe fisicamente os datacenters dentro da mesma região
+  - Cada datacenter é equipado com alimentação, resfriamento e rede independentes
+
+* Pares de Região
+  - Mínimo de 300 milhas de separação entre pares de regiões 
+  - Replicação automática para alguns serviços
+  - Recuperação de região priorizada em caso de interrupção
+  - https://aka.ms/PairedRegions-ptb
+
+* Regiões Soberanas do Azure
+  [Serviços Governamentais dos EUA]
+   - Atende às necessidades de segurança e conformidade das agências federais, governos estaduais e locais dos EUA e seus provedores de soluções
+   - Instância separada do Azure
+
+  [Azure China]
+   - Operada pela 21Vianet, instância fisicamente separada dos serviços de nuvem do Azure
+   - Todos os dados permanecem dentro da China por conformidade
+   
+* Recursos do Azure
+  - Componentes como: armazenamento, máquinas virtuais, redes, funções, bancos de dados sql, serviços e aplicativos
+  - É um contêiner que usa para gerenciar e agregar recursos em uma única unidade
+
+* Assinaturas Azure
+  - Desenvolvimento
+  - Teste
+  - Produção
+
 ### Social Media
 * Instagram: https://www.instagram.com/argeu.souza
 * My GitHub: https://www.github.com/argeulimbo
