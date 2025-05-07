@@ -15,7 +15,29 @@ Neste módulo inicial, introduz conceitos básicos sobre Cloud (nuvem), tais com
 * Previsibilidade
 * Segurança: o modelo de segurança relaciona-se com o gerenciamento de acesso por exemplo
 * Governança: auditoria de nuvem ajuda a sinalizar qualquer recurso que esteja fora de conformidade com os padrões do projeto
-* Gerenciabilidade: gerenciar os recursos de nuvem, como escalar automaticamente a implantação de recursos com base em necessidade -> Por meio do portal / Usando interface de linha de comando / Usando APIs / Usando PowerShell 
+* Gerenciabilidade: gerenciar os recursos de nuvem, como escalar automaticamente a implantação de recursos com base em necessidade -> Por meio do portal / Usando interface de linha de comando / Usando APIs / Usando PowerShell
+
+## [ Tipos de Serviço de Nuvem ]
+* IaaS - Infraestrutura como Serviço
+  - Servidores e armazenamento
+  - Firewalls e segurança de rede
+  - Planta física/edifício do datacenter 
+  - Serviço de nuvem mais flexível
+  - Configura e gerencia o hardware para o aplicativo
+
+* PaaS - Plataforma como Serviço
+  - Sistemas Operacionais
+  - Ferramentas para desenvolvedores, análise de negócios de gerenciamento de database
+  - Fornece ambiente para criação, teste e implantação de aplicativos de software, sem focar no gerenciamento da infraestrutura subjacente
+  - Focado no desenvolvimento de Aplicativos
+  - O gerenciamento de plataforma é realizado pelo provedor de nuvem
+
+* SaaS - Software como Serviço
+  - Aplicativos/Apps Hospedados
+  - A aplicação já existe, já sabemos o que ela entrega
+  - Os usuários se conectam e usam aplicativos com base em nuvem pela internet: Microsoft Office 365, email e calendários
+  - Modelo de preço de pagamento conforme o uso - licença de uso
+  - Usuários pagam pelo software que utilizam em um modelo de assinatura
 
 ### Social Media
 * Instagram: https://www.instagram.com/argeu.souza
